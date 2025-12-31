@@ -3,7 +3,7 @@
 <!-- ===================== -->
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=700&lines=Data+Analyst;Computer+Science+Engineering+Student;Python+%7C+SQL+%7C+Excel+%7C+Power+BI" 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=720&lines=Data+Analyst;Computer+Science+Engineering+Student;Python+%7C+MySQL+%7C+Excel+%7C+Power+BI+%7C+Tableau" 
     alt="Typing Animation"
   />
 </p>
@@ -58,12 +58,12 @@
 
 <p>
 I’m Sundharmoorthi, a Computer Science & Engineering student with a strong interest in Data Analytics.
-I enjoy analyzing data to discover trends, patterns, and insights that help in decision-making.
+I specialize in analyzing structured data, identifying trends, and presenting insights through clear visualizations.
 </p>
 
 <p>
-My focus areas include data cleaning, SQL-based analysis, exploratory data analysis (EDA),
-and building interactive dashboards using visualization tools.
+My strengths include SQL-based data analysis, data visualization, dashboard creation,
+and advanced Excel techniques to support data-driven decision-making.
 </p>
 
 <hr/>
@@ -75,8 +75,8 @@ and building interactive dashboards using visualization tools.
 
 <ul>
   <li>📊 Currently working on: <b>Data Analytics & Visualization Projects</b></li>
-  <li>🌱 Currently learning: <b>Advanced SQL, Power BI, Python for Data Analysis</b></li>
-  <li>💬 Ask me about: <b>Python, SQL, Excel, Power BI, Data Cleaning</b></li>
+  <li>🌱 Currently learning: <b>Advanced Excel, Tableau, Business Analytics</b></li>
+  <li>💬 Ask me about: <b>Python, MySQL, Excel, Power BI, Tableau, Data Visualization</b></li>
 </ul>
 
 <hr/>
@@ -88,16 +88,15 @@ and building interactive dashboards using visualization tools.
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-306998?logo=python&logoColor=white" height="42"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white" height="42"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="42"/>
   <img src="https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white" height="42"/>
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black" height="42"/>
+  <img src="https://img.shields.io/badge/Advanced%20Excel-1D6F42?logo=microsoft-excel&logoColor=white" height="42"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white" height="42"/>
-  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" height="42"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white" height="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42"/>
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black" height="42"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white" height="42"/>
+  <img src="https://img.shields.io/badge/Data%20Visualization-4CAF50?logo=chartdotjs&logoColor=white" height="42"/>
 </p>
 
 <hr/>
@@ -122,41 +121,41 @@ and building interactive dashboards using visualization tools.
 
 <h4>📊 Inventory Management & Sales Forecasting</h4>
 <ul>
-  <li>Analyzed supermarket sales data to identify trends and seasonal patterns</li>
-  <li>Used SQL queries for data extraction and transformation</li>
-  <li>Built interactive Power BI dashboards for decision support</li>
+  <li>Analyzed supermarket sales data to identify trends and demand patterns</li>
+  <li>Performed data extraction and analysis using MySQL</li>
+  <li>Built interactive dashboards using Power BI and Excel</li>
 </ul>
-<p><b>Tech:</b> Excel, MySQL, Power BI</p>
+<p><b>Tech:</b> MySQL, Excel, Advanced Excel, Power BI, Data Visualization</p>
 
 <hr/>
 
 <h4>👥 HR Data Analytics</h4>
 <ul>
-  <li>Analyzed employee data to identify attrition trends and workforce patterns</li>
-  <li>Performed data cleaning and exploratory data analysis (EDA)</li>
-  <li>Created visual reports to support HR decision-making</li>
+  <li>Analyzed employee datasets to identify attrition and performance trends</li>
+  <li>Used Excel and MySQL for data cleaning and analysis</li>
+  <li>Created visual dashboards for HR decision-making</li>
 </ul>
-<p><b>Tech:</b> Excel, SQL, Power BI</p>
+<p><b>Tech:</b> MySQL, Excel, Advanced Excel, Power BI, Tableau</p>
 
 <hr/>
 
 <h4>🚗 Electric Vehicles Data Analysis</h4>
 <ul>
-  <li>Analyzed electric vehicle datasets to study adoption trends and performance metrics</li>
-  <li>Identified patterns in range, pricing, and manufacturer distribution</li>
-  <li>Visualized insights using charts and dashboards</li>
+  <li>Studied EV adoption trends, pricing, and range metrics</li>
+  <li>Performed analysis using Python and MySQL</li>
+  <li>Visualized insights through Power BI and Tableau dashboards</li>
 </ul>
-<p><b>Tech:</b> Python, Pandas, Matplotlib, Power BI</p>
+<p><b>Tech:</b> Python, MySQL, Power BI, Tableau, Data Visualization</p>
 
 <hr/>
 
 <h4>📈 Used Car Data Analysis</h4>
 <ul>
-  <li>Cleaned and preprocessed real-world used car datasets</li>
-  <li>Analyzed price trends and feature impact on resale value</li>
-  <li>Generated visual insights using Python libraries</li>
+  <li>Cleaned and analyzed used car datasets</li>
+  <li>Identified pricing patterns and feature impact</li>
+  <li>Presented insights using Excel and visualization tools</li>
 </ul>
-<p><b>Tech:</b> Python, Pandas, Matplotlib</p>
+<p><b>Tech:</b> Python, Excel, Advanced Excel, Data Visualization</p>
 
 <hr/>
 
