@@ -3,7 +3,7 @@
 <!-- ===================== -->
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=720&lines=Data+Analyst;Computer+Science+Engineering+Student;Python+%7C+MySQL+%7C+Excel+%7C+Power+BI+%7C+Tableau" 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=720&lines=Data+Analyst;Python+%7C+MySQL+%7C+Excel+%7C+Power+BI+%7C+Tableau;Data+Visualization+%7C+Business+Insights" 
     alt="Typing Animation"
   />
 </p>
@@ -30,7 +30,7 @@
 <h1 align="center">Hi, I'm Sundharmoorthi 👋</h1>
 
 <p align="center">
-  Computer Science & Engineering · Aspiring Data Analyst
+  Data Analyst
 </p>
 
 <hr/>
@@ -60,13 +60,13 @@
 <h3>About Me</h3>
 
 <p>
-I’m Sundharmoorthi, a Computer Science & Engineering student with a strong interest in Data Analytics.
-I specialize in analyzing structured data, identifying trends, and presenting insights through clear visualizations.
+I’m Sundharmoorthi, a Data Analyst focused on transforming raw data into meaningful business insights.
+I work with structured data to identify trends, patterns, and performance indicators.
 </p>
 
 <p>
-My strengths include SQL-based data analysis, data visualization, dashboard creation,
-and advanced Excel techniques to support data-driven decision-making.
+My strengths include SQL-based analysis, data visualization, dashboard development,
+and advanced Excel techniques for decision-making.
 </p>
 
 <hr/>
