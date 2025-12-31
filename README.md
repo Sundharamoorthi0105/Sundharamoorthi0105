@@ -29,9 +29,10 @@
 
 <h1 align="center"><b>Hi, I'm Sundharmoorthi 👋</b></h1>
 
-<p align="center">
-  Data Analyst
-</p>
+
+  <h1 align="center" style="font-size:42px; font-weight:900; letter-spacing:2px;">
+  DATA ANALYST
+</h1>
 
 <hr/>
 
