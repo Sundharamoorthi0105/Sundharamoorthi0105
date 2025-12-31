@@ -27,7 +27,7 @@
   />
 </p>
 
-<h1 align="center">Hi, I'm Sundharmoorthi 👋</h1>
+<h1 align="center"><b>Hi, I'm Sundharmoorthi 👋</b></h1>
 
 <p align="center">
   Data Analyst
@@ -65,8 +65,8 @@ I work with structured data to identify trends, patterns, and performance indica
 </p>
 
 <p>
-My strengths include SQL-based analysis, data visualization, dashboard development,
-and advanced Excel techniques for decision-making.
+My expertise includes SQL-based data analysis, data visualization, dashboard development,
+and advanced Excel techniques to support data-driven decision-making.
 </p>
 
 <hr/>
@@ -105,6 +105,22 @@ and advanced Excel techniques for decision-making.
 <hr/>
 
 <!-- ===================== -->
+<!-- Software & Tools -->
+<!-- ===================== -->
+<h2 align="center">🧰 Software & Tools</h2>
+
+<ul>
+  <li><b>Microsoft Excel</b> – Advanced Excel (Pivot Tables, VLOOKUP/XLOOKUP, Power Query, Charts)</li>
+  <li><b>Power BI</b> – Data modeling, DAX basics, interactive dashboards</li>
+  <li><b>Tableau</b> – Data visualization and storytelling dashboards</li>
+  <li><b>MySQL</b> – Joins, aggregations, subqueries, performance analysis</li>
+  <li><b>Python</b> – Pandas, NumPy, Matplotlib for data analysis</li>
+  <li><b>Git & GitHub</b> – Version control and project management</li>
+</ul>
+
+<hr/>
+
+<!-- ===================== -->
 <!-- Certifications -->
 <!-- ===================== -->
 <h3>🎓 Certifications</h3>
@@ -136,7 +152,7 @@ and advanced Excel techniques for decision-making.
 <ul>
   <li>Analyzed employee datasets to identify attrition and performance trends</li>
   <li>Used Excel and MySQL for data cleaning and analysis</li>
-  <li>Created visual dashboards for HR decision-making</li>
+  <li>Created dashboards to support HR decision-making</li>
 </ul>
 <p><b>Tech:</b> MySQL, Excel, Advanced Excel, Power BI, Tableau</p>
 
@@ -146,7 +162,7 @@ and advanced Excel techniques for decision-making.
 <ul>
   <li>Studied EV adoption trends, pricing, and range metrics</li>
   <li>Performed analysis using Python and MySQL</li>
-  <li>Visualized insights through Power BI and Tableau dashboards</li>
+  <li>Visualized insights using Power BI and Tableau</li>
 </ul>
 <p><b>Tech:</b> Python, MySQL, Power BI, Tableau, Data Visualization</p>
 
@@ -163,7 +179,7 @@ and advanced Excel techniques for decision-making.
 <hr/>
 
 <!-- ===================== -->
-<!-- Stats -->
+<!-- GitHub Activity -->
 <!-- ===================== -->
 <h3 align="center">📊 GitHub Activity</h3>
 
