@@ -30,7 +30,7 @@
 <h1 align="center">Hi, I'm Sundharmoorthi 👋</h1>
 
 <p align="center">
-  Computer Science & Engineering Student · Aspiring Data Analyst
+  Computer Science & Engineering · Aspiring Data Analyst
 </p>
 
 <hr/>
