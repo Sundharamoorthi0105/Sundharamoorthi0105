@@ -3,7 +3,7 @@
 <!-- ===================== -->
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=720&lines=Data+Analyst;Python+%7C+MySQL+%7C+Excel+%7C+Power+BI+%7C+Tableau;Data+Visualization+%7C+Business+Insights" 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=720&lines=Data+Analyst;Python+%7C+MySQL+%7C+Advance Excel+%7C+Power+BI+%7C+Tableau;Data+Visualization+%7C+Business+Insights" 
     alt="Typing Animation"
   />
 </p>
