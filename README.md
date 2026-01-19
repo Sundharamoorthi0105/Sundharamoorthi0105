@@ -3,7 +3,7 @@
 <!-- ===================== -->
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=720&lines=Data+Analyst;Python+%7C+MySQL+%7C+Advance Excel+%7C+Power+BI+%7C+Tableau;Data+Visualization+%7C+Business+Insights" 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Sundharmoorthi;Data+Analyst+%7C+Business+Intelligence;Python+%7C+MySQL+%7C+Advanced+Excel+%7C+Power+BI+%7C+Tableau;Turning+Data+into+Actionable+Insights"
     alt="Typing Animation"
   />
 </p>
@@ -23,14 +23,13 @@
 <!-- ===================== -->
 <p align="center">
   <img 
-    src="https://komarev.com/ghpvc/?username=Sundharamoorthi0105&label=Profile%20views&color=0e75b6&style=flat" 
+    src="https://komarev.com/ghpvc/?username=Sundharamoorthi0105&label=Profile%20views&color=0e75b6&style=flat"
   />
 </p>
 
 <h1 align="center"><b>Hi, I'm Sundharmoorthi 👋</b></h1>
 
-
-  <h1 align="center" style="font-size:42px; font-weight:900; letter-spacing:2px;">
+<h1 align="center" style="font-size:42px; font-weight:900; letter-spacing:2px;">
   DATA ANALYST
 </h1>
 
@@ -111,11 +110,11 @@ and advanced Excel techniques to support data-driven decision-making.
 <h2 align="center">🧰 Software & Tools</h2>
 
 <ul>
-  <li><b>Microsoft Excel</b> – Advanced Excel (Pivot Tables, VLOOKUP/XLOOKUP, Power Query, Charts)</li>
+  <li><b>Microsoft Excel</b> – Advanced Excel (Pivot Tables, XLOOKUP, Power Query, Charts)</li>
   <li><b>Power BI</b> – Data modeling, DAX basics, interactive dashboards</li>
   <li><b>Tableau</b> – Data visualization and storytelling dashboards</li>
-  <li><b>MySQL</b> – Joins, aggregations, subqueries, performance analysis</li>
-  <li><b>Python</b> – Pandas, NumPy, Matplotlib for data analysis</li>
+  <li><b>MySQL</b> – Joins, aggregations, subqueries</li>
+  <li><b>Python</b> – Pandas, NumPy, Matplotlib</li>
   <li><b>Git & GitHub</b> – Version control and project management</li>
 </ul>
 
@@ -145,27 +144,25 @@ and advanced Excel techniques to support data-driven decision-making.
   <li>Performed data extraction and analysis using MySQL</li>
   <li>Built interactive dashboards using Power BI and Excel</li>
 </ul>
-<p><b>Tech:</b> MySQL, Excel, Advanced Excel, Power BI, Data Visualization</p>
+<p><b>Tech:</b> MySQL, Excel, Advanced Excel, Power BI</p>
 
 <hr/>
 
 <h4>👥 HR Data Analytics</h4>
 <ul>
   <li>Analyzed employee datasets to identify attrition and performance trends</li>
-  <li>Used Excel and MySQL for data cleaning and analysis</li>
   <li>Created dashboards to support HR decision-making</li>
 </ul>
-<p><b>Tech:</b> MySQL, Excel, Advanced Excel, Power BI, Tableau</p>
+<p><b>Tech:</b> MySQL, Excel, Power BI, Tableau</p>
 
 <hr/>
 
 <h4>🚗 Electric Vehicles Data Analysis</h4>
 <ul>
   <li>Studied EV adoption trends, pricing, and range metrics</li>
-  <li>Performed analysis using Python and MySQL</li>
-  <li>Visualized insights using Power BI and Tableau</li>
+  <li>Visualized insights using BI tools</li>
 </ul>
-<p><b>Tech:</b> Python, MySQL, Power BI, Tableau, Data Visualization</p>
+<p><b>Tech:</b> Python, MySQL, Power BI, Tableau</p>
 
 <hr/>
 
@@ -173,9 +170,8 @@ and advanced Excel techniques to support data-driven decision-making.
 <ul>
   <li>Cleaned and analyzed used car datasets</li>
   <li>Identified pricing patterns and feature impact</li>
-  <li>Presented insights using Excel and visualization tools</li>
 </ul>
-<p><b>Tech:</b> Python, Excel, Advanced Excel, Data Visualization</p>
+<p><b>Tech:</b> Python, Excel, Data Visualization</p>
 
 <hr/>
 
@@ -186,6 +182,6 @@ and advanced Excel techniques to support data-driven decision-making.
 
 <p align="center">
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Sundharamoorthi0105&bg_color=000000&color=8b949e&line=26a641&point=8b949e&area=true&hide_border=true" 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Sundharamoorthi0105&bg_color=000000&color=8b949e&line=26a641&point=8b949e&area=true&hide_border=true"
   />
 </p>
