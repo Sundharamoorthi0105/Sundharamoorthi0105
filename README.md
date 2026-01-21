@@ -50,16 +50,19 @@
 
 <hr/>
 
+
 <!-- ===================== -->
 <!-- Resume Buttons -->
 <!-- ===================== -->
 <p align="center">
-  <a href="https://drive.google.com/file/d/1gC2-Nypi0AJ2sGOZlPHVUP3tg4lFqCHa/view" target="_blank">
-    <img src="https://img.shields.io/badge/View%20Resume-4285F4?style=for-the-badge&logo=googledocs&logoColor=white"/>
+  <!-- View Resume -->
+  <a href="https://github.com/Sundharamoorthi0105/Resume/blob/main/Sundharmoorthi_Resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Resume-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://drive.google.com/uc?export=download&id=1gC2-Nypi0AJ2sGOZlPHVUP3tg4lFqCHa">
-    <img src="https://img.shields.io/badge/Download%20Resume-34A853?style=for-the-badge&logo=download&logoColor=white"/>
+  <!-- Download Resume -->
+  <a href="https://raw.githubusercontent.com/Sundharamoorthi0105/Resume/main/Sundharmoorthi_Resume.pdf">
+    <img src="https://img.shields.io/badge/Download%20Resume-2EA44F?style=for-the-badge&logo=download&logoColor=white"/>
   </a>
 </p>
 
