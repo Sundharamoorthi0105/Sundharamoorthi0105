@@ -46,12 +46,21 @@
   <a href="https://sundharamoorthi.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-24292F?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
-    <a href="https://drive.google.com/file/d/1gC2-Nypi0AJ2sGOZlPHVUP3tg4lFqCHa/view?usp=drivesdk" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=googledocs&logoColor=white"/>
-  </a>
 </p>
 
 <hr/>
+
+<!-- ===================== -->
+<!-- Resume Buttons -->
+<!-- ===================== -->
+<p align="center">
+  <a href="https://drive.google.com/file/d/1gC2-Nypi0AJ2sGOZlPHVUP3tg4lFqCHa/view" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Resume-4285F4?style=for-the-badge&logo=googledocs&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://drive.google.com/uc?export=download&id=1gC2-Nypi0AJ2sGOZlPHVUP3tg4lFqCHa">
+    <img src="https://img.shields.io/badge/Download%20Resume-34A853?style=for-the-badge&logo=download&logoColor=white"/>
+  </a>
 </p>
 
 <hr/>
