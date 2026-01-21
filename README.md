@@ -94,7 +94,7 @@
 </ul>
 <p><b>Tech:</b> MySQL, Excel, Power BI</p>
 <p>
-  🔗 <a href="https://github.com/Sundharamoorthi0105/Inventory-Management-Sales-Forecasting" target="_blank">
+  🔗 <a href="https://github.com/Sundharamoorthi0105/Customer-Segmentation-with-K-Means-Clustering"target="_blank">
     View GitHub Repository
   </a>
 </p>
@@ -108,7 +108,7 @@
 </ul>
 <p><b>Tech:</b> MySQL, Excel, Power BI, Tableau</p>
 <p>
-  🔗 <a href="https://github.com/Sundharamoorthi0105/HR-Data-Analytics" target="_blank">
+  🔗 <a href="https://github.com/Sundharamoorthi0105/HR-DATA-ANALYSIS" target="_blank">
     View GitHub Repository
   </a>
 </p>
@@ -122,27 +122,26 @@
 </ul>
 <p><b>Tech:</b> Python, MySQL, Power BI, Tableau</p>
 <p>
-  🔗 <a href="https://github.com/Sundharamoorthi0105/Electric-Vehicles-Data-Analysis" target="_blank">
+  🔗 <a href="https://github.com/Sundharamoorthi0105/Electric-Vechicles Analysis"target="_blank">
     View GitHub Repository
   </a>
 </p>
 
 <hr/>
 
-<h4>📈 Used Car Data Analysis</h4>
+<h4>📈  Car Theft Analysis</h4>
 <ul>
   <li>Cleaned and analyzed used car datasets</li>
   <li>Identified pricing patterns and feature impact</li>
 </ul>
 <p><b>Tech:</b> Python, Excel, Data Visualization</p>
 <p>
-  🔗 <a href="https://github.com/Sundharamoorthi0105/Used-Car-Data-Analysis" target="_blank">
+  🔗 <a href="https://github.com/Sundharamoorthi0105/Car-Theft-Analysis" target="_blank">
     View GitHub Repository
   </a>
 </p>
 
 <hr/>
-
 <!-- ===================== -->
 <!-- 7️⃣ Career Interests -->
 <!-- ===================== -->
@@ -154,7 +153,6 @@
   <li>Reporting & Insights Analyst</li>
   <li>Junior Data Scientist (Future Goal)</li>
 </ul>
-
 <hr/>
 
 <!-- ===================== -->
@@ -163,8 +161,8 @@
 <h3>📫 Contact & Availability</h3>
 
 <ul>
-  <li>📍 Location: India</li>
-  <li>📧 Email: <b>your-email@gmail.com</b></li>
+  <li>📍 Location: Coimbatore, Tamilnadu,India</li>
+  <li>📧 Email: <b>moorthisundhara15@gmail.com</b></li>
   <li>💼 Open to: <b>Internships | Full-Time Data Analyst Roles</b></li>
 </ul>
 
