@@ -56,12 +56,12 @@
 <!-- ===================== -->
 <p align="center">
   <!-- View Resume -->
-  <a href="https://github.com/Sundharamoorthi0105/Resume/blob/main/Sundharmoorthi_Resume.pdf" target="_blank">
+  <a href="https://drive.google.com/file/d/1gC2-Nypi0AJ2sGOZlPHVUP3tg4lFqCHa/view?usp=drivesdk)" target="_blank">
     <img src="https://img.shields.io/badge/View%20Resume-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   &nbsp;
   <!-- Download Resume -->
-  <a href="https://raw.githubusercontent.com/Sundharamoorthi0105/Resume/main/Sundharmoorthi_Resume.pdf">
+  <a href="https://drive.google.com/file/d/1gC2-Nypi0AJ2sGOZlPHVUP3tg4lFqCHa/view?usp=drivesdk"
     <img src="https://img.shields.io/badge/Download%20Resume-2EA44F?style=for-the-badge&logo=download&logoColor=white"/>
   </a>
 </p>
