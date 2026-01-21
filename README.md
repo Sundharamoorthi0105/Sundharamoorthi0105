@@ -46,6 +46,12 @@
   <a href="https://sundharamoorthi.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-24292F?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
+    <a href="https://drive.google.com/file/d/1gC2-Nypi0AJ2sGOZlPHVUP3tg4lFqCHa/view?usp=drivesdk" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=googledocs&logoColor=white"/>
+  </a>
+</p>
+
+<hr/>
 </p>
 
 <hr/>
@@ -185,6 +191,21 @@
   <li>Business Intelligence Analyst</li>
   <li>Reporting & Insights Analyst</li>
   <li>Junior Data Scientist (Future Goal)</li>
+</ul>
+
+<hr/>
+
+<!-- ===================== -->
+<!-- Education -->
+<!-- ===================== -->
+<h3>🎓 Education</h3>
+
+<ul>
+  <li>
+    <b>Bachelor of Engineering (B.E.) – Computer Science Engineering</b><br/>
+    KGiSL Institute of Technology, Coimbatore, Tamil Nadu, India<br/>
+    <b>CGPA:</b> 7.60 / 10
+  </li>
 </ul>
 
 <hr/>
