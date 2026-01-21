@@ -16,6 +16,17 @@
   Aspiring Data Analyst · Business Intelligence · Data Visualization
 </p>
 
+<!-- ===================== -->
+<!-- Data Analytics Image -->
+<!-- ===================== -->
+<p align="center">
+  <img 
+    src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=1600&q=80"
+    alt="Data Analytics Dashboard"
+    width="820"
+  />
+</p>
+
 <hr/>
 
 <!-- ===================== -->
@@ -52,7 +63,7 @@
 <hr/>
 
 <!-- ===================== -->
-<!-- 2️⃣ Data Analytics Workflow -->
+<!-- Data Analytics Workflow -->
 <!-- ===================== -->
 <h3>🔄 Data Analytics Workflow</h3>
 
@@ -67,7 +78,7 @@
 <hr/>
 
 <!-- ===================== -->
-<!-- 5️⃣ Tools by Category -->
+<!-- Tools by Category -->
 <!-- ===================== -->
 <h3>🛠️ Tools by Category</h3>
 
@@ -94,7 +105,7 @@
 </ul>
 <p><b>Tech:</b> MySQL, Excel, Power BI</p>
 <p>
-  🔗 <a href="https://github.com/Sundharamoorthi0105/Customer-Segmentation-with-K-Means-Clustering"target="_blank">
+  🔗 <a href="https://github.com/Sundharamoorthi0105/Customer-Segmentation-with-K-Means-Clustering" target="_blank">
     View GitHub Repository
   </a>
 </p>
@@ -122,17 +133,17 @@
 </ul>
 <p><b>Tech:</b> Python, MySQL, Power BI, Tableau</p>
 <p>
-  🔗 <a href="https://github.com/Sundharamoorthi0105/Electric-Vechicles Analysis"target="_blank">
+  🔗 <a href="https://github.com/Sundharamoorthi0105/Electric-Vechicles-Analysis" target="_blank">
     View GitHub Repository
   </a>
 </p>
 
 <hr/>
 
-<h4>📈  Car Theft Analysis</h4>
+<h4>📈 Car Theft Analysis</h4>
 <ul>
-  <li>Cleaned and analyzed used car datasets</li>
-  <li>Identified pricing patterns and feature impact</li>
+  <li>Cleaned and analyzed datasets related to car theft</li>
+  <li>Identified crime patterns and trends</li>
 </ul>
 <p><b>Tech:</b> Python, Excel, Data Visualization</p>
 <p>
@@ -142,8 +153,9 @@
 </p>
 
 <hr/>
+
 <!-- ===================== -->
-<!-- 7️⃣ Career Interests -->
+<!-- Career Interests -->
 <!-- ===================== -->
 <h3>🎯 Career Interests</h3>
 
@@ -153,15 +165,16 @@
   <li>Reporting & Insights Analyst</li>
   <li>Junior Data Scientist (Future Goal)</li>
 </ul>
+
 <hr/>
 
 <!-- ===================== -->
-<!-- 8️⃣ Contact & Availability -->
+<!-- Contact & Availability -->
 <!-- ===================== -->
 <h3>📫 Contact & Availability</h3>
 
 <ul>
-  <li>📍 Location: Coimbatore, Tamilnadu,India</li>
+  <li>📍 Location: Coimbatore, Tamil Nadu, India</li>
   <li>📧 Email: <b>moorthisundhara15@gmail.com</b></li>
   <li>💼 Open to: <b>Internships | Full-Time Data Analyst Roles</b></li>
 </ul>
