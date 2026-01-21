@@ -17,17 +17,18 @@
 </p>
 
 <!-- ===================== -->
-<!-- Data Analytics Image -->
+<!-- Responsive Data Analytics Image -->
 <!-- ===================== -->
 <p align="center">
   <img 
     src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=1600&q=80"
     alt="Data Analytics Dashboard"
-    width="820"
+    width="100%"
   />
 </p>
 
 <hr/>
+
 <!-- ===================== -->
 <!-- Connect With Me -->
 <!-- ===================== -->
@@ -37,11 +38,11 @@
   <a href="https://github.com/Sundharamoorthi0105" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://www.linkedin.com/in/sundharamoorthi" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://sundharamoorthi.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-24292F?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
@@ -189,7 +190,7 @@
 <hr/>
 
 <!-- ===================== -->
-<!-- Contact & Availability -->
+<!-- Contact -->
 <!-- ===================== -->
 <h3>📫 Contact & Availability</h3>
 
