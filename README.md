@@ -252,7 +252,7 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Sundharmamoorthi0105&bg_color=000000&color=8b949e&line=26a641&point=8b949e&area=true&hide_border=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Sundharamoorthi0105&bg_color=000000&color=8b949e&line=26a641&point=8b949e&area=true&hide_border=true"
     alt="GitHub Activity Graph"
   />
 </p>
