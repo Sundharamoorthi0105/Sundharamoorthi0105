@@ -145,7 +145,7 @@
 <p><b>Tech:</b> Excel</p>
 
 <p>
-  🔗 <a href="https://github.com/Sundharmamoorthi0105/Coffee-Shop-Analysis" target="_blank">
+  🔗 <a href="https://github.com/Sundharamoorthi0105/Coffee-Shop-Analysis" target="_blank">
     View GitHub Repository
   </a>
 </p>
@@ -162,7 +162,7 @@
 <p><b>Tech:</b> Power BI</p>
 
 <p>
-  🔗 <a href="https://github.com/Sundharmamoorthi0105/Car-Analysis-" target="_blank">
+  🔗 <a href="https://github.com/Sundharamoorthi0105/Car-Analysis-" target="_blank">
     View GitHub Repository
   </a>
 </p>
@@ -179,7 +179,7 @@
 <p><b>Tech:</b>  Tableau</p>
 
 <p>
-  🔗 <a href="https://github.com/Sundharmamoorthi0105/Electric-Vechicles-Analysis" target="_blank">
+  🔗 <a href="https://github.com/Sundharamoorthi0105/Electric-Vechicles-Analysis" target="_blank">
     View GitHub Repository
   </a>
 </p>
@@ -196,7 +196,7 @@
 <p><b>Tech:</b> Python, Pandas,Seaborn,Matplotlib </p>
 
 <p>
-  🔗 <a href="https://github.com/Sundharmamoorthi0105/House-price-prediction" target="_blank">
+  🔗 <a href="https://github.com/Sundharamoorthi0105/House-price-prediction" target="_blank">
     View GitHub Repository
   </a>
 </p>
