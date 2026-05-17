@@ -17,7 +17,7 @@
 </p>
 
 <!-- ===================== -->
-<!-- Responsive Data Analytics Image -->
+<!-- Banner Image -->
 <!-- ===================== -->
 <p align="center">
   <img 
@@ -35,14 +35,14 @@
 <h3 align="center">🔗 Connect With Me</h3>
 
 <p align="center">
-  <a href="https://github.com/Sundharamoorthi0105" target="_blank">
+  <a href="https://github.com/Sundharmamoorthi0105" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  &nbsp;
+
   <a href="https://www.linkedin.com/in/sundharamoorthi" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  &nbsp;
+
   <a href="https://sundharamoorthi.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-24292F?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
@@ -50,20 +50,19 @@
 
 <hr/>
 
-
 <!-- ===================== -->
 <!-- Resume Buttons -->
 <!-- ===================== -->
 <p align="center">
-  <!-- View Resume -->
-  <a href="https://drive.google.com/file/d/1gC2-Nypi0AJ2sGOZlPHVUP3tg4lFqCHa/view?usp=drivesdk)" target="_blank">
+
+  <a href="https://drive.google.com/file/d/1gC2-Nypi0AJ2sGOZlPHVUP3tg4lFqCHa/view?usp=drivesdk" target="_blank">
     <img src="https://img.shields.io/badge/View%20Resume-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  &nbsp;
-  <!-- Download Resume -->
-  <a href="https://drive.google.com/file/d/1gC2-Nypi0AJ2sGOZlPHVUP3tg4lFqCHa/view?usp=drivesdk"
+
+  <a href="https://drive.google.com/file/d/1gC2-Nypi0AJ2sGOZlPHVUP3tg4lFqCHa/view?usp=drivesdk" target="_blank">
     <img src="https://img.shields.io/badge/Download%20Resume-2EA44F?style=for-the-badge&logo=download&logoColor=white"/>
   </a>
+
 </p>
 
 <hr/>
@@ -74,10 +73,10 @@
 <h3>⚡ Rapid Fire</h3>
 
 <ul>
-  <li>💼 Currently working on: <b>Real-world Data Analytics projects</b></li>
+  <li>💼 Currently working on: <b>Real-world Data Analytics Projects</b></li>
   <li>📊 Tools: <b>Python, MySQL, Excel, Power BI, Tableau</b></li>
-  <li>🧠 Strengths: <b>Data cleaning, analysis, visualization</b></li>
-  <li>🎯 Career goal: <b>Data Analyst / Business Intelligence Analyst</b></li>
+  <li>🧠 Strengths: <b>Data Cleaning, Data Analysis, Visualization</b></li>
+  <li>🎯 Career Goal: <b>Data Analyst / Business Intelligence Analyst</b></li>
 </ul>
 
 <hr/>
@@ -102,7 +101,7 @@
 <hr/>
 
 <!-- ===================== -->
-<!-- Data Analytics Workflow -->
+<!-- Workflow -->
 <!-- ===================== -->
 <h3>🔄 Data Analytics Workflow</h3>
 
@@ -117,7 +116,7 @@
 <hr/>
 
 <!-- ===================== -->
-<!-- Tools by Category -->
+<!-- Tools -->
 <!-- ===================== -->
 <h3>🛠️ Tools by Category</h3>
 
@@ -136,57 +135,68 @@
 <!-- ===================== -->
 <h3>🚀 Projects</h3>
 
-<h4>📊 Inventory Management & Sales Forecasting</h4>
+<h4>☕ Coffee Shop Analysis</h4>
 <ul>
-  <li>Analyzed supermarket sales data to identify demand patterns</li>
-  <li>Performed data extraction and analysis using MySQL</li>
+  <li>Analyzed coffee shop sales performance and customer trends</li>
   <li>Built interactive dashboards using Power BI and Excel</li>
+  <li>Created KPI metrics for revenue, profit, and transactions</li>
 </ul>
-<p><b>Tech:</b> MySQL, Excel, Power BI</p>
+
+<p><b>Tech:</b> Excel, Power BI, Data Visualization</p>
+
 <p>
-  🔗 <a href="https://github.com/Sundharamoorthi0105/Customer-Segmentation-with-K-Means-Clustering" target="_blank">
+  🔗 <a href="https://github.com/Sundharmamoorthi0105/Coffee-Shop-Analysis" target="_blank">
     View GitHub Repository
   </a>
 </p>
 
 <hr/>
 
-<h4>👥 HR Data Analytics</h4>
+<h4>🚗 Car Sales Analysis</h4>
 <ul>
-  <li>Analyzed employee datasets to identify attrition trends</li>
-  <li>Created dashboards for HR decision-making</li>
+  <li>Developed an interactive car sales dashboard for business insights</li>
+  <li>Analyzed sales trends, dealer regions, and body style performance</li>
+  <li>Created KPI cards and sales trend visualizations</li>
 </ul>
-<p><b>Tech:</b> MySQL, Excel, Power BI, Tableau</p>
+
+<p><b>Tech:</b> Power BI, Excel, Data Analytics</p>
+
 <p>
-  🔗 <a href="https://github.com/Sundharamoorthi0105/HR-DATA-ANALYSIS" target="_blank">
+  🔗 <a href="https://github.com/Sundharmamoorthi0105/Car-Analysis-" target="_blank">
     View GitHub Repository
   </a>
 </p>
 
 <hr/>
 
-<h4>🚗 Electric Vehicles Data Analysis</h4>
+<h4>⚡ Electric Vehicles Analysis</h4>
 <ul>
-  <li>Analyzed EV adoption, pricing, and range metrics</li>
-  <li>Visualized insights using BI tools</li>
+  <li>Analyzed electric vehicle adoption trends and EV market insights</li>
+  <li>Created dashboards to visualize EV performance</li>
+  <li>Performed data cleaning and exploratory data analysis</li>
 </ul>
-<p><b>Tech:</b> Python, MySQL, Power BI, Tableau</p>
+
+<p><b>Tech:</b> Python, Power BI, Tableau, Excel</p>
+
 <p>
-  🔗 <a href="https://github.com/Sundharamoorthi0105/Electric-Vechicles-Analysis" target="_blank">
+  🔗 <a href="https://github.com/Sundharmamoorthi0105/Electric-Vechicles-Analysis" target="_blank">
     View GitHub Repository
   </a>
 </p>
 
 <hr/>
 
-<h4>📈 Car Theft Analysis</h4>
+<h4>🏠 House Price Prediction</h4>
 <ul>
-  <li>Cleaned and analyzed datasets related to car theft</li>
-  <li>Identified crime patterns and trends</li>
+  <li>Built a machine learning model to predict house prices</li>
+  <li>Performed feature engineering and preprocessing</li>
+  <li>Analyzed housing market trends using Python</li>
 </ul>
-<p><b>Tech:</b> Python, Excel, Data Visualization</p>
+
+<p><b>Tech:</b> Python, Machine Learning, Pandas, Scikit-learn</p>
+
 <p>
-  🔗 <a href="https://github.com/Sundharamoorthi0105/Car-Theft-Analysis" target="_blank">
+  🔗 <a href="https://github.com/Sundharmamoorthi0105/House-price-prediction" target="_blank">
     View GitHub Repository
   </a>
 </p>
@@ -228,7 +238,7 @@
 <h3>📫 Contact & Availability</h3>
 
 <ul>
-  <li>📍 Location: Coimbatore, Tamil Nadu, India</li>
+  <li>📍 Location: Dharmapuri, Tamil Nadu, India</li>
   <li>📧 Email: <b>moorthisundhara15@gmail.com</b></li>
   <li>💼 Open to: <b>Internships | Full-Time Data Analyst Roles</b></li>
 </ul>
@@ -242,7 +252,7 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Sundharamoorthi0105&bg_color=000000&color=8b949e&line=26a641&point=8b949e&area=true&hide_border=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Sundharmamoorthi0105&bg_color=000000&color=8b949e&line=26a641&point=8b949e&area=true&hide_border=true"
     alt="GitHub Activity Graph"
   />
 </p>
