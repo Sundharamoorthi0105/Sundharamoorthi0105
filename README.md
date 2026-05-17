@@ -142,7 +142,7 @@
   <li>Created KPI metrics for revenue, profit, and transactions</li>
 </ul>
 
-<p><b>Tech:</b> Excel, Power BI, Data Visualization</p>
+<p><b>Tech:</b> Excel</p>
 
 <p>
   🔗 <a href="https://github.com/Sundharmamoorthi0105/Coffee-Shop-Analysis" target="_blank">
@@ -159,7 +159,7 @@
   <li>Created KPI cards and sales trend visualizations</li>
 </ul>
 
-<p><b>Tech:</b> Power BI, Excel, Data Analytics</p>
+<p><b>Tech:</b> Power BI</p>
 
 <p>
   🔗 <a href="https://github.com/Sundharmamoorthi0105/Car-Analysis-" target="_blank">
@@ -176,7 +176,7 @@
   <li>Performed data cleaning and exploratory data analysis</li>
 </ul>
 
-<p><b>Tech:</b> Python, Power BI, Tableau, Excel</p>
+<p><b>Tech:</b>  Tableau</p>
 
 <p>
   🔗 <a href="https://github.com/Sundharmamoorthi0105/Electric-Vechicles-Analysis" target="_blank">
@@ -193,7 +193,7 @@
   <li>Analyzed housing market trends using Python</li>
 </ul>
 
-<p><b>Tech:</b> Python, Machine Learning, Pandas, Scikit-learn</p>
+<p><b>Tech:</b> Python, Pandas,Seaborn,Matplotlib </p>
 
 <p>
   🔗 <a href="https://github.com/Sundharmamoorthi0105/House-price-prediction" target="_blank">
@@ -226,7 +226,7 @@
   <li>
     <b>Bachelor of Engineering (B.E.) – Computer Science Engineering</b><br/>
     KGiSL Institute of Technology, Coimbatore, Tamil Nadu, India<br/>
-    <b>CGPA:</b> 7.60 / 10
+    <b>CGPA:</b> 7.80 / 10
   </li>
 </ul>
 
@@ -240,7 +240,7 @@
 <ul>
   <li>📍 Location: Dharmapuri, Tamil Nadu, India</li>
   <li>📧 Email: <b>moorthisundhara15@gmail.com</b></li>
-  <li>💼 Open to: <b>Internships | Full-Time Data Analyst Roles</b></li>
+  <li>💼 Open to:  Full-Time Data Analyst Roles</b></li>
 </ul>
 
 <hr/>
